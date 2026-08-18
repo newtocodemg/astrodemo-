@@ -1,0 +1,6 @@
+{
+  "name": "AstroVeda",
+  "description": "A premium, modern astrology platform for personalized birth charts, daily cosmic forecasts, compatibility analysis, and Vedic astrologer consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
